@@ -7,12 +7,15 @@ SharedFields:
 - ID: "e495efd3-5c43-45fc-af43-796a6b503716"
   Hint: Image
   Value: |
-    <image mediaid="{21831EBB-9058-44D6-AEBC-93FB88D3A0E8}" />
+    <image src="https://scm-dam-test-jan6.sitecoresandbox.cloud/api/public/content/f51fd333ef534179ad3a5f9e461b696c?v=2fd59434" dam-id="asset.toa-heftiba-271805" width="3936" height="2624" alt="Lemonade at the beach" dam-content-type="Image" thumbnailsrc="https://scm-dam-test-jan6.sitecoresandbox.cloud/api/gateway/29889/thumbnail" />
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "1f82a687-0683-426f-b12a-4b2100a6a481"
       Hint: Title
       Value: "Does your website need a new look?"
@@ -27,7 +30,7 @@ Languages:
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "23150356-c557-4fe5-a0a4-c4a72b73c758"
+      Value: "d276c719-5297-401d-b394-20029987e3d9"
     - ID: "cc0cb595-ce5c-413e-b413-3a7176347f28"
       Hint: Text
       Value: Our team has experience with over 50 modern Content Management Systems and integrations into hundreds of different business systems.
